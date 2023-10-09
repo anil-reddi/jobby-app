@@ -1,7 +1,7 @@
 .job-card-container {
   background-color: #272727;
   border-radius: 15px;
-  max-width: 350px;
+  max-width: 320px;
   display: flex;
   flex-direction: column;
   gap: 16px;

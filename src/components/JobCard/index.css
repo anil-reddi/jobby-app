@@ -1,9 +1,9 @@
-.job-card-container {
+.job-card {
   background-color: #272727;
   border-radius: 12px;
 }
 @media screen and (min-width: 768px) {
-  .job-card-container {
+  .job-card {
     width: 90%;
   }
 }
